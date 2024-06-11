@@ -33,7 +33,7 @@
 import colorama as col
 from art import tprint
 
-print(col.Fore.Magenta,col.Back.GREEN)
+print(col.Fore.LIGHTMAGENTA_EX,col.Back.YELLOW)
 tprint('Hello World')
 
 #
