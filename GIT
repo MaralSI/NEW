@@ -1,4 +1,4 @@
-ggit init - инициализация
+ggititgit init - инициализация
 git remote add origin ссылку на репозиторий
 
 
@@ -6,6 +6,7 @@ git add . - добавление
 git commit -m 'название' - точка сохранения
 git push origin master\ main - отправка в гитХАБ
 
+MaraSI
 файл .gitignore
 это файл, который скрывает
 1) ненужные файлы (мусор) или
