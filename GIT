@@ -20,6 +20,8 @@ git rm --cached -r: удаляет папку
 git clone url - ссылка
 git remote remove origin
 
-git ??
+git branch
+git branch name
+git checkout name
 
 
