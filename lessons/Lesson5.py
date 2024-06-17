@@ -1,4 +1,4 @@
-#
+# 1 класс
 # # модули пайтона
 #
 # import random, time, math

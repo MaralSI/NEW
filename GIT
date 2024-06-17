@@ -1,4 +1,4 @@
-ggititgit init - инициализация
+git init - инициализация
 g ссылку на репозиторий
 
 
@@ -18,7 +18,6 @@ git rm --cached: удаляет файлы
 git rm --cached -r: удаляет папку
 
 git clone url - ссылка
-
 git remote remove origin
 
 git ??
