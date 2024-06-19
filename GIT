@@ -20,6 +20,13 @@ git rm --cached -r: удаляет папку
 git clone url - ссылка
 git remote remove origin
 
-git ??
+git branch - показывает ветки *
+git branch - создает ветку
+git checkout name - переключает ветку
+git merge name - обновляет ветку
+git checkout -b name - создает и сразу на нее переключается
+
+
+
 
 
